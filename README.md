@@ -103,3 +103,13 @@ Improved tuning:
 - Run:
   ```bash
   python pid_ultrasonic_motor_sim.py
+   ```
+
+## Group Members
+
+- IBRAHIM BIN NASRUM (2116467)
+- MUHAMMAD HAFIDZUDDIN HANIF
+- DANIAL BIN NORIZAL (2123651)
+- CHUI YUAN JIE (2114803)
+- MUHAMAD AZRI BIN ABDUL AZIZ (2113537)
+
